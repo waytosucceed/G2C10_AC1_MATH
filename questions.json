@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Which of the following is the expanded form of 435?",
+        "options": [
+            "400 + 30 + 5",
+            "400 + 50 + 3",
+            "300 + 40 + 5",
+            "500 + 30 + 4"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "What is the standard form of 200 + 40 + 7?",
+        "options": [
+            "274",
+            "247",
+            "427",
+            "472"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "What is the standard form of 600 + 20 + 9?",
+        "options": [
+            "692",
+            "620",
+            "629",
+            "962"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "What is the standard form of 900 + 10 + 6?",
+        "options": [
+            "910",
+            "906",
+            "196",
+            "916"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Which number has the expanded form 300 + 20 + 9?",
+        "options": [
+            "239",
+            "329",
+            "392",
+            "932"
+        ],
+        "correct": 1
+    }
+]
